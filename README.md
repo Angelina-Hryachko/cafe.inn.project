@@ -8,3 +8,9 @@ Cafe Management System Project
 ![signup](/assets/signup.png)
 
 ![forgot-password](/assets/forgot-password.png)
+
+![dashboard-1](/assets/dashboard.png)
+
+![dashboard-1](/assets/dashboard-1.png)
+
+![logout](/assets/logout.png)
