@@ -1,0 +1,1 @@
+Backend part (Spring Boot - Java, MySQL Database)
