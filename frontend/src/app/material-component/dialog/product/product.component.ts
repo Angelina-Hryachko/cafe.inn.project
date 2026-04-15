@@ -34,7 +34,7 @@ export class ProductComponent implements OnInit {
     this.productForm = this.formBuilder.group({
       name: [null, [Validators.required, Validators.pattern(GlobalConstants.nameRegex)]],
       categoryId: [null, [Validators.required]],
-      price: [null, [Validators.required]],
+      price: [null, [Validators.required, Validators.pattern("^[0-9]+(\\.[0-9]{1,2})?$")]],
       description: [null, [Validators.required]]
     });
 
